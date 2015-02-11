@@ -1,13 +1,10 @@
 {
-  "name": "webcomponentsjs",
-  "main": "webcomponents.js",
-  "version": "0.5.4",
+  "name": "polymer-mutationobserver",
+  "main": "dist/mutationobserver.js",
+  "version": "1.0.0",
   "homepage": "http://webcomponents.org",
   "authors": [
     "The Polymer Authors"
-  ],
-  "keywords": [
-    "webcomponents"
   ],
   "license": "BSD",
   "ignore": []

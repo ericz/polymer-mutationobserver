@@ -1,3 +1,8 @@
+
+## This repo is a fork of https://github.com/webcomponents/webcomponentsjs
+And exists for the sole purpose of putting the MutationObserver polyfills along with WeakMap on Bower. No other modifications have been made
+
+
 webcomponents.js
 ================
 
